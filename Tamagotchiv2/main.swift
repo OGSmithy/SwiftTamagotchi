@@ -159,3 +159,6 @@ while currentlyDead == false {
 }
 
 print("You are being investigated for neglect and murder due to the untimely death of your tamagotchi")
+
+
+print("Hello")
